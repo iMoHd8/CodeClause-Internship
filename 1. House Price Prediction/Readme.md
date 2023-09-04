@@ -1,5 +1,5 @@
 # House Price Prediction Model
-### This is The 1st Task in The Internship of CodeClause Internship in Artificial Intellagence
+### This is The 1st Task in The Internship of CodeClause Internship in Artificial Intelligence
 
 #### The task is prediction of house price using Regression Algorithms.
 
